@@ -1,0 +1,6 @@
+{
+  "editor.tabSize": 3,
+  "html.format.enable": false,
+  "html.format.wrapAttributesIndentSize": 2,
+  "workbench.tree.indent": 4
+}
